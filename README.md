@@ -119,5 +119,3 @@ VALUES (80000.00, '2025-09-19 14:30:00', 'card', 3),
 * Structuring SQL queries for real-world hotel management
 
 ---
-
-Would you like me to also **generate an ER diagram (image) of the database schema** so you can add it to the README for extra visual impact?
